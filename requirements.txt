@@ -5,4 +5,4 @@ plotly
 seaborn
 shapely
 datetime
-sklearn
+scikit-learn
