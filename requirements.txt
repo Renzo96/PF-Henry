@@ -5,3 +5,4 @@ plotly
 seaborn
 shapely
 datetime
+sklearn
